@@ -8,20 +8,24 @@ Show Report Data
 
 相關知識點
 
-
 vlookup函數
-
 
 數據透視錶
 
-
 if
+
 sumif
+
 sumifs
+
 index
+
 match
+
 條件格式設定
+
 走勢圖
+
 ...
 
 
