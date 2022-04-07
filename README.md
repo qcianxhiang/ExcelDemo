@@ -7,8 +7,14 @@ Show Report Data
 
 
 相關知識點
+
+
 vlookup函數
+
+
 數據透視錶
+
+
 if
 sumif
 sumifs
