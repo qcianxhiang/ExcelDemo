@@ -10,7 +10,7 @@ Show Report Data
 
 vlookup函數
 
-數據透視錶
+數據透視表
 
 if
 
